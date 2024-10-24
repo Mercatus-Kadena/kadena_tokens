@@ -267,7 +267,7 @@ mainnet:
     description:
     img: img/cwc.webp
     totalSupply: 4000000
-    circulatingSupply: 3999540
+    circulatingSupply: 460
     color: "#a22726"
     precision: 12
     socials:
