@@ -285,7 +285,7 @@ mainnet:
     circulatingSupply: 100000000
     color: "#a22726"
     precision: 12
-    socials:
+    socials: []
              
   n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.ShrekYodaTrumpMarsX12Inu:
     symbol: GREENCOIN
@@ -296,7 +296,7 @@ mainnet:
     circulatingSupply: 100000000
     color: "#a22726"
     precision: 12
-    socials:
+    socials: []
 
   n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.SonGokuBezosPikachu12Inu:
     symbol: WLONG
@@ -307,7 +307,7 @@ mainnet:
     circulatingSupply: 100000000
     color: "#a22726"
     precision: 12
-    socials:
+    socials: []
    
 testnet:
   coin:
