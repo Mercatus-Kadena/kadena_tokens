@@ -276,6 +276,39 @@ mainnet:
       - type: twitter
         url: https://x.com/GuardiansofKDA
 
+  n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.MesutÖzilDönerKebabMerkel42Inu:
+    symbol: KEBAB
+    name: KEBAB
+    description: This Token is a symbol of love to Döner Kebab and to the friendship between Germany and Turkey
+    img: img/kebab.webp
+    totalSupply: 100000000
+    circulatingSupply: 100000000
+    color: "#a22726"
+    precision: 12
+    socials:
+             
+  n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.ShrekYodaTrumpMarsX12Inu:
+    symbol: GREENCOIN
+    name: GREENCOIN
+    description: Cult for green coin, Trump and mars lovers.
+    img: img/greencoin.webp
+    totalSupply: 100000000
+    circulatingSupply: 100000000
+    color: "#a22726"
+    precision: 12
+    socials:
+
+  n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.SonGokuBezosPikachu12Inu:
+    symbol: WLONG
+    name: WLONG
+    description: May the power of Wenlong be with us.
+    img: img/wlong.webp
+    totalSupply: 100000000
+    circulatingSupply: 100000000
+    color: "#a22726"
+    precision: 12
+    socials:
+   
 testnet:
   coin:
     symbol: KDA
