@@ -308,7 +308,24 @@ mainnet:
     color: "#a22726"
     precision: 12
     socials: []
-   
+    
+  n_518dfea5f0d2abe95cbcd8956eb97f3238e274a9.AZUKI:
+    symbol: AZUKI
+    name: AZUKI
+    description: Will Martino's beloved companion, AZUKI is a community managed token. Woof!.
+    img: img/azuki.png
+    totalSupply: 100000000
+    circulatingSupply: 100000000
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.azukionkadena.fun
+      - type: twitter
+        url: https://x.com/AzukiKDA
+      - type: telegram
+        url: https://t.me/AzukiKDA
+    
 testnet:
   coin:
     symbol: KDA
