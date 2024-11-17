@@ -308,6 +308,21 @@ mainnet:
     color: "#a22726"
     precision: 12
     socials: []
+
+  n_d8d407d0445ed92ba102c2ce678591d69e464006.TRILLIONCARBON:
+    symbol: TCTC
+    name: TCTC
+    description: the official corporate token and ledger of Trillion Capital Toronto Corporation used for internal purposes
+    img: img/tril.png
+    totalSupply: 1000001
+    circulatingSupply: 1000001
+    color: "#a22726"
+    precision: 12
+    socials: 
+      - type: website
+        url: https://trillioncapital.ca
+      - type: twitter
+        url: https://twitter.com/TRILLIONCAP
    
 testnet:
   coin:
