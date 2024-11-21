@@ -323,6 +323,17 @@ mainnet:
         url: https://trillioncapital.ca
       - type: twitter
         url: https://twitter.com/TRILLIONCAP
+
+  n_71c27e6720665fb572433c8e52eb89833b47b49b.Peppapig:
+    symbol: PP
+    name: PP
+    description:
+    img: img/peppa.png
+    totalSupply: 1000000000
+    circulatingSupply: 1000000000
+    color: "#a22726"
+    precision: 12
+    socials: []
    
 testnet:
   coin:
