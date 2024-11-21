@@ -74,14 +74,20 @@ mainnet:
   free.kishu-ken:
     symbol: KISHK
     name: KISHK
-    description:
+    description: First Kadena memecoin 
     img: img/kishk.png
     color: "#cbcbcc"
+    totalSupply: 1000000000000000.00
+    circulatingSupply: 689488206446005.00
     precision: 12
     socials:
+      - type: website
+        url: https://kishuken.me/
       - type: twitter
-        url: https://x.com/kishuken_kda
-
+        url: https://x.com/kishu_ken_kda
+      - type: telegram
+        url: https://t.me/kishukens
+      
   kaddex.kdx:
     symbol: KDX
     name: KDX
