@@ -350,7 +350,9 @@ mainnet:
     circulatingSupply: 1000000000
     color: "#a22726"
     precision: 12
-    socials: []
+    socials: 
+      - type: telegram
+        url: https://t.me/peppapigmemetokenkda
    
 testnet:
   coin:
