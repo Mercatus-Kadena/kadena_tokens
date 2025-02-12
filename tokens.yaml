@@ -136,8 +136,8 @@ mainnet:
     name: HERON
     description:
     img: img/heron.png
-    totalSupply: 982000000
-    circulatingSupply: 720000000
+    totalSupply: 963142522
+    circulatingSupply: 693142522
     color: "#a22726"
     precision: 12
     socials:
@@ -273,7 +273,7 @@ mainnet:
     description:
     img: img/cwc.webp
     totalSupply: 4000000
-    circulatingSupply: 460
+    circulatingSupply: 520
     color: "#a22726"
     precision: 12
     socials:
@@ -314,7 +314,22 @@ mainnet:
     color: "#a22726"
     precision: 12
     socials: []
-    
+
+  n_d8d407d0445ed92ba102c2ce678591d69e464006.TRILLIONCARBON:
+    symbol: TCTC
+    name: TCTC
+    description: the official corporate token and ledger of Trillion Capital Toronto Corporation used for internal purposes
+    img: img/tril.png
+    totalSupply: 1000001
+    circulatingSupply: 1000001
+    color: "#a22726"
+    precision: 12
+    socials: 
+      - type: website
+        url: https://trillioncapital.ca
+      - type: twitter
+        url: https://twitter.com/TRILLIONCAP
+
   n_518dfea5f0d2abe95cbcd8956eb97f3238e274a9.AZUKI:
     symbol: AZUKI
     name: AZUKI
@@ -331,7 +346,20 @@ mainnet:
         url: https://x.com/AzukiKDA
       - type: telegram
         url: https://t.me/AzukiKDA
-    
+
+  n_71c27e6720665fb572433c8e52eb89833b47b49b.Peppapig:
+    symbol: PP
+    name: PP
+    description:
+    img: img/peppa.png
+    totalSupply: 1000000000
+    circulatingSupply: 1000000000
+    color: "#a22726"
+    precision: 12
+    socials: 
+      - type: telegram
+        url: https://t.me/peppapigmemetokenkda
+
 testnet:
   coin:
     symbol: KDA
