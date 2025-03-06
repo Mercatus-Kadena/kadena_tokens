@@ -59,8 +59,17 @@ mainnet:
     description:
     img: img/cfly.svg
     color: "#1f1fc2"
+    totalSupply: 90000000
+    circulatingSupply: 8580000
     precision: 8
-    socials: []
+    socials:
+      - type: website
+        url: https://cyberfly.io
+      - type: twitter
+        url: https://x.com/cyberfly_io
+      - type: telegram
+        url: https://t.me/cyberflyio
+       
 
   free.finux:
     symbol: FINX
