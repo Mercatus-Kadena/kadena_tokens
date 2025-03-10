@@ -320,6 +320,17 @@ testnet:
     precision: 12
     socials: []
 
+  n_ff0f76ee90735fba124eba93a1c49423c75654b1.def:
+    symbol: DEF
+    name: DEF
+    description: Test token on chain 18
+    img: img/def.png
+    color: "#008080"
+    totalSupply: 1000000
+    circulatingSupply: 1000000
+    precision: 12
+    socials: []
+
 blacklist:
   - lago.USD2
   - lago.kwBTC
