@@ -356,6 +356,23 @@ mainnet:
       - type: telegram
         url: https://t.me/AzukiKDA
 
+        free.TECKEL:
+    symbol: TECKEL
+    name: TECKEL
+    description: The worlds most lovable pup has found its home on Kadena.
+    img: img/teckel.png
+    totalSupply: 420000000000000
+    circulatingSupply: 420000000000000
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.kdateckel.fun
+      - type: twitter
+        url: https://x.com/kdateckel
+      - type: telegram
+        url: https://t.me/kdateckel
+    
   n_71c27e6720665fb572433c8e52eb89833b47b49b.Peppapig:
     symbol: PP
     name: PP
