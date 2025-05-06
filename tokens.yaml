@@ -69,7 +69,7 @@ mainnet:
         url: https://x.com/cyberfly_io
       - type: telegram
         url: https://t.me/cyberflyio
-       
+
 
   free.finux:
     symbol: FINX
@@ -83,7 +83,7 @@ mainnet:
   free.kishu-ken:
     symbol: KISHK
     name: KISHK
-    description: First Kadena memecoin 
+    description: First Kadena memecoin
     img: img/kishk.png
     color: "#cbcbcc"
     totalSupply: 1000000000000000.00
@@ -96,7 +96,7 @@ mainnet:
         url: https://x.com/kishu_ken_kda
       - type: telegram
         url: https://t.me/kishukens
-      
+
   kaddex.kdx:
     symbol: KDX
     name: KDX
@@ -275,7 +275,7 @@ mainnet:
     socials:
       - type: website
         url: https://youtu.be/dQw4w9WgXcQ?si=h0SS4HbaWxLgw2IA
-  
+
   n_c89f6bb915bf2eddf7683fdea9e40691c840f2b6.cwc:
     symbol: CWC
     name: CWC
@@ -301,7 +301,7 @@ mainnet:
     color: "#a22726"
     precision: 12
     socials: []
-             
+
   n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.ShrekYodaTrumpMarsX12Inu:
     symbol: GREENCOIN
     name: GREENCOIN
@@ -333,7 +333,7 @@ mainnet:
     circulatingSupply: 1000001
     color: "#a22726"
     precision: 12
-    socials: 
+    socials:
       - type: website
         url: https://trillioncapital.ca
       - type: twitter
@@ -356,7 +356,7 @@ mainnet:
       - type: telegram
         url: https://t.me/AzukiKDA
 
-free.TECKEL:
+  free.TECKEL:
     symbol: TECKEL
     name: TECKEL
     description: The worlds most lovable pup has found its home on Kadena.
@@ -372,7 +372,7 @@ free.TECKEL:
         url: https://x.com/kdateckel
       - type: telegram
         url: https://t.me/kdateckel
-    
+
   n_71c27e6720665fb572433c8e52eb89833b47b49b.Peppapig:
     symbol: PP
     name: PP
@@ -382,7 +382,7 @@ free.TECKEL:
     circulatingSupply: 1000000000
     color: "#a22726"
     precision: 12
-    socials: 
+    socials:
       - type: telegram
         url: https://t.me/peppapigmemetokenkda
 
@@ -418,4 +418,3 @@ blacklist:
   - free.KAYC
   - free.anedak
   - n_95d7fe012aa7e05c187b3fc8c605ff3b1a2c521d.MesutÖzilDönerKebabMerkel42Inu
-
