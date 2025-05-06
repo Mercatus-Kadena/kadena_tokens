@@ -3,9 +3,22 @@ from pathlib import Path
 import sys
 import magic
 
+class UniqueKeyLoader(yaml.SafeLoader):
+    def construct_mapping(self, node, deep=False):
+        mapping = set()
+        for key_node, value_node in node.value:
+            if ':merge' in key_node.tag:
+                continue
+            key = self.construct_object(key_node, deep=deep)
+            if key in mapping:
+                raise ValueError(f"Duplicate {key!r} key found in YAML.")
+            mapping.add(key)
+        return super().construct_mapping(node, deep)
+
+
 try:
     with open("../tokens.yaml") as fd:
-        data = yaml.safe_load(fd)
+        data = yaml.load(fd, Loader=UniqueKeyLoader)
 except Exception as ex:
     print("Error when parsing YAML file")
     print(str(ex))
