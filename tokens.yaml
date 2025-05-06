@@ -356,7 +356,7 @@ mainnet:
       - type: telegram
         url: https://t.me/AzukiKDA
 
-  free.TECKEL:
+  free.teckel:
     symbol: TECKEL
     name: TECKEL
     description: The worlds most lovable pup has found its home on Kadena.
