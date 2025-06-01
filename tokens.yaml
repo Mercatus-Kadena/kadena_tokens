@@ -386,6 +386,17 @@ mainnet:
       - type: telegram
         url: https://t.me/peppapigmemetokenkda
 
+  n_19fe4385fca9b23474c6d91d188392405709615b.Enzocoin:
+    symbol: ENZO
+    name: Enzocoin
+    description: Enzocoin is the native token for the FlatGodz community.
+    img: img/cuckenzo.webp
+    totalSupply: 1000000000
+    circulatingSupply: 1000000000
+    color: "#218dc5"
+    precision: 12
+    socials: []
+
 testnet:
   coin:
     symbol: KDA
