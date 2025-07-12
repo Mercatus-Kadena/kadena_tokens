@@ -263,6 +263,64 @@ mainnet:
       - type: discord
         url: https://discord.com/invite/GghUdhmk6z
 
+  n_e98a056e3e14203e6ec18fada427334b21b667d8.cKDA:
+    symbol: cKDA
+    name: Chips KDA
+    description: Tokenized Kadena hashrate, used for earning KDA on https://chips.finance
+    img: img/ckda.png
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: website
+        url: https://chips.finance
+      - type: discord
+        url: https://discord.gg/CKss7eGW36
+      - type: twitter
+        url: https://x.com/chips_finance
+      - type: telegram
+        url: https://t.me/CHIPSFINANCE
+      - type: facebook
+        url: https://www.facebook.com/profile.php?id=61567477331614
+
+  n_e98a056e3e14203e6ec18fada427334b21b667d8.cBTC:
+    symbol: cBTC
+    name: Chips BTC
+    description: Tokenized Bitcoin hashrate, used for earning BTC on https://chips.finance
+    img: img/cbtc.png
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: website
+        url: https://chips.finance
+      - type: discord
+        url: https://discord.gg/CKss7eGW36
+      - type: twitter
+        url: https://x.com/chips_finance
+      - type: telegram
+        url: https://t.me/CHIPSFINANCE
+      - type: facebook
+        url: https://www.facebook.com/profile.php?id=61567477331614
+
+  n_e98a056e3e14203e6ec18fada427334b21b667d8.cLTC:
+    symbol: cLTC
+    name: Chips LTC
+    description: Tokenized Litecoin hashrate, used for earning LTC on https://chips.finance
+    img: img/cltc.png
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: website
+        url: https://chips.finance
+      - type: discord
+        url: https://discord.gg/CKss7eGW36
+      - type: twitter
+        url: https://x.com/chips_finance
+      - type: telegram
+        url: https://t.me/CHIPSFINANCE
+      - type: facebook
+        url: https://www.facebook.com/profile.php?id=61567477331614
+
+
   n_2669414de420c0d40bbc3caa615e989eaba83d6f.highlander:
     symbol: HLR
     name: HLR
