@@ -279,8 +279,6 @@ mainnet:
         url: https://x.com/chips_finance
       - type: telegram
         url: https://t.me/CHIPSFINANCE
-      - type: facebook
-        url: https://www.facebook.com/profile.php?id=61567477331614
 
   n_e98a056e3e14203e6ec18fada427334b21b667d8.cBTC:
     symbol: cBTC
@@ -298,8 +296,6 @@ mainnet:
         url: https://x.com/chips_finance
       - type: telegram
         url: https://t.me/CHIPSFINANCE
-      - type: facebook
-        url: https://www.facebook.com/profile.php?id=61567477331614
 
   n_e98a056e3e14203e6ec18fada427334b21b667d8.cLTC:
     symbol: cLTC
@@ -317,8 +313,6 @@ mainnet:
         url: https://x.com/chips_finance
       - type: telegram
         url: https://t.me/CHIPSFINANCE
-      - type: facebook
-        url: https://www.facebook.com/profile.php?id=61567477331614
 
 
   n_2669414de420c0d40bbc3caa615e989eaba83d6f.highlander:
