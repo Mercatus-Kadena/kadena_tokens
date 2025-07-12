@@ -267,7 +267,7 @@ mainnet:
     symbol: cKDA
     name: Chips KDA
     description: Tokenized Kadena hashrate, used for earning KDA on https://chips.finance
-    img: img/ckda.png
+    img: img/ckda.svg
     color: "#218dc5"
     precision: 12
     socials:
@@ -286,7 +286,7 @@ mainnet:
     symbol: cBTC
     name: Chips BTC
     description: Tokenized Bitcoin hashrate, used for earning BTC on https://chips.finance
-    img: img/cbtc.png
+    img: img/cbtc.svg
     color: "#218dc5"
     precision: 12
     socials:
@@ -305,7 +305,7 @@ mainnet:
     symbol: cLTC
     name: Chips LTC
     description: Tokenized Litecoin hashrate, used for earning LTC on https://chips.finance
-    img: img/cltc.png
+    img: img/cltc.svg
     color: "#218dc5"
     precision: 12
     socials:
