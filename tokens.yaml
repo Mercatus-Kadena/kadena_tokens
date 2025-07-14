@@ -314,6 +314,23 @@ mainnet:
       - type: telegram
         url: https://t.me/CHIPSFINANCE
 
+  n_e98a056e3e14203e6ec18fada427334b21b667d8.kWATT:
+    symbol: kWATT
+    name: kWATT
+    description: Tokenized energy, used for paying electric fees on https://chips.finance
+    img: img/cltc.svg
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: website
+        url: https://chips.finance
+      - type: discord
+        url: https://discord.gg/CKss7eGW36
+      - type: twitter
+        url: https://x.com/chips_finance
+      - type: telegram
+        url: https://t.me/CHIPSFINANCE
+
 
   n_2669414de420c0d40bbc3caa615e989eaba83d6f.highlander:
     symbol: HLR
