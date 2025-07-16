@@ -504,7 +504,7 @@ development:
     name: B-One
     description: Bro-Fi Stable Coin
     img: img/b_one_coin.png
-    color: "#af826a"
+    color: "#aeb6bf"
     totalSupply: 100000
     circulatingSupply: 100000
     precision: 12
@@ -520,7 +520,7 @@ development:
     name: xUSD
     description: Simulated bridged USD Token
     img: img/xUSD.png
-    color: "#af826a"
+    color: "#2ecc71"
     totalSupply: 100000
     circulatingSupply: 100000
     precision: 12
