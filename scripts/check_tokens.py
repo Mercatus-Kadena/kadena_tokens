@@ -27,7 +27,7 @@ except Exception as ex:
 
 
 
-mainnet = data["mainnet"]
+mainnet = data["development"]
 
 failure = False
 

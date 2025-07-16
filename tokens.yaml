@@ -466,6 +466,67 @@ testnet:
       - type: github
         url: https://github.com/kadena-io
 
+development:
+  coin:
+    symbol: KDA
+    name: KDA
+    description: Native token of Kadena
+    img: img/kda.svg
+    totalSupply: 1000000000
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.kadena.io/
+      - type: twitter
+        url: https://twitter.com/kadena_io
+      - type: discord
+        url: https://discord.com/invite/kadena
+      - type: github
+        url: https://github.com/kadena-io
+
+  n_ff0f76ee90735fba124eba93a1c49423c75654b1.bro:
+    symbol: BRO
+    name: BRO
+    description: Token of the Brother's Telegram group
+    img: img/bro.png
+    color: "#af826a"
+    totalSupply: 100
+    circulatingSupply: 80
+    precision: 12
+    socials:
+        - type: website
+          url: https://bro.pink/
+        - type: twitter
+          url: https://x.com/thebrothersdao
+
+  bro-fi.b-one:
+    symbol: B-One
+    name: B-One
+    description: Bro-Fi Stable Coin
+    img: img/b_one_coin.png
+    color: "#af826a"
+    totalSupply: 100000
+    circulatingSupply: 100000
+    precision: 12
+    socials:
+        - type: website
+          url: https://bro.pink/
+        - type: twitter
+          url: https://x.com/thebrothersdao
+
+
+  n_fe5f7307e38fc4de12e3e9719fa8160ef6cd7f13.xUSD:
+    symbol: xUSD
+    name: xUSD
+    description: Simulated bridged USD Token
+    img: img/xUSD.png
+    color: "#af826a"
+    totalSupply: 100000
+    circulatingSupply: 100000
+    precision: 12
+    socials: []
+
+
 blacklist:
   - lago.USD2
   - lago.kwBTC
