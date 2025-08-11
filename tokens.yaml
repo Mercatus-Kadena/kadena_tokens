@@ -19,7 +19,7 @@ mainnet:
 
   n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH:
     symbol: kb-ETH
-    name: Kadena Bridged ETH
+    name: Kinesis Bridged ETH
     description:
     img: img/kb-eth.svg
     color: "#716B94"
@@ -30,7 +30,7 @@ mainnet:
 
   n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-USDC:
     symbol: kb-USDC
-    name: Kadena Bridged USDC
+    name: Kinesis Bridged USDC
     description:
     img: img/kb-usdc.svg
     color: "#2775CA"
