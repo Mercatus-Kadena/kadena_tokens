@@ -514,6 +514,20 @@ development:
         - type: twitter
           url: https://x.com/thebrothersdao
 
+  bro-fi.stability-pool:
+    symbol: B-One-SP
+    name: B-One-SP
+    description: Stability Pool B-One 
+    img: img/sp_b_one_coin.png
+    color: "#aeb6bf"
+    totalSupply: 100000
+    circulatingSupply: 100000
+    precision: 12
+    socials:
+        - type: website
+          url: https://bro.pink/
+        - type: twitter
+          url: https://x.com/thebrothersdao
 
   n_fe5f7307e38fc4de12e3e9719fa8160ef6cd7f13.xUSD:
     symbol: xUSD
