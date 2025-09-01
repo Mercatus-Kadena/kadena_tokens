@@ -46,6 +46,28 @@ mainnet:
       - type: github
         url: https://github.com/kadena-io
 
+  n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH:
+    symbol: kb-ETH
+    name: Kinesis Bridged ETH
+    description:
+    img: img/kb-eth.svg
+    color: "#716B94"
+    precision: 18
+    socials:
+      - type: twitter
+        url: https://x.com/ethereum
+
+  n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-USDC:
+    symbol: kb-USDC
+    name: Kinesis Bridged USDC
+    description:
+    img: img/kb-usdc.svg
+    color: "#2775CA"
+    precision: 6
+    socials:
+      - type: twitter
+        url: https://x.com/circle
+
   arkade.token:
     symbol: ARKD
     name: Arkade
@@ -511,6 +533,21 @@ testnet:
         url: https://discord.com/invite/kadena
       - type: github
         url: https://github.com/kadena-io
+
+n_e0db65ce44a2cb408642be0a425cff2063c0631c.MATTA:
+    symbol: MATTA
+    name: MATTA Token
+    description: Whiteboard Memes on the Kadena Blockchain
+    img: img/matta.png
+    color: "#FFFFFF"
+    totalSupply: 3000
+    circulatingSupply: 3000 
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.mattatoken.fun/
+      - type: twitter
+        url: https://x.com/MattaToken
 
 blacklist:
   - lago.USD2
