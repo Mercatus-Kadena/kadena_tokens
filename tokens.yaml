@@ -1,5 +1,22 @@
 mainnet:
- coin:
+  coin:
+    symbol: KDA
+    name: KDA
+    description: Native token of Kadena
+    img: img/kda.svg
+    color: "#4a9079"
+    totalSupply: 1000000000
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.kadena.io/
+      - type: twitter
+        url: https://twitter.com/kadena_io
+      - type: discord
+        url: https://discord.com/invite/kadena
+      - type: github
+        url: https://github.com/kadena-io
+    
     symbol: KODI
     name: KODI
     description: KODI is the native memecoin catcoin on the best blockchain in crypto. It is the first holistic cat on Kadena.
@@ -17,7 +34,7 @@ mainnet:
         url: https://github.com/koditoken
 
   kodi_token:
-    symbol: KODI
+    symbol: KODI 
     name: KODI 
     description:
     img: img/kodi.png
@@ -28,23 +45,6 @@ mainnet:
         url: https://koditoken.com/
       - type: twitter
         url: https://x.com/koditoken
-        
-  symbol: KDA
-    name: KDA
-    description: Native token of Kadena
-    img: img/kda.svg
-    color: "#4a9079"
-    totalSupply: 1000000000
-    precision: 12
-    socials:
-      - type: website
-        url: https://www.kadena.io/
-      - type: twitter
-        url: https://twitter.com/kadena_io
-      - type: discord
-        url: https://discord.com/invite/kadena
-      - type: github
-        url: https://github.com/kadena-io
 
   n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH:
     symbol: kb-ETH
