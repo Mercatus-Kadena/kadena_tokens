@@ -17,13 +17,14 @@ mainnet:
       - type: github
         url: https://github.com/kadena-io
     
+  kodi_token:
     symbol: KODI
     name: KODI
     description: KODI is the native memecoin catcoin on the best blockchain in crypto. It is the first holistic cat on Kadena.
     img: img/kodi.png
     color: "#4a9079"
-    totalSupply: 9,000,000,000,000
-    maxSupply: 9,000,000,000,000
+    totalSupply: 9000000000000
+    maxSupply: 9000000000000
     precision: 12
     socials:
       - type: website
@@ -32,19 +33,6 @@ mainnet:
         url: https://x.com/koditoken
       - type: github
         url: https://github.com/koditoken
-
-  kodi_token:
-    symbol: KODI 
-    name: KODI 
-    description:
-    img: img/kodi.png
-    color: "#cc66ff"
-    precision: 12
-    socials:
-      - type: website
-        url: https://koditoken.com/
-      - type: twitter
-        url: https://x.com/koditoken
 
   n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH:
     symbol: kb-ETH
