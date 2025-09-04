@@ -16,23 +16,36 @@ mainnet:
         url: https://discord.com/invite/kadena
       - type: github
         url: https://github.com/kadena-io
-    
-  kodi_token:
-    symbol: KODI
-    name: KODI
-    description: KODI is the native memecoin catcoin on the best blockchain in crypto. It is the first holistic cat on Kadena.
-    img: img/kodi.png
-    color: "#4a9079"
-    totalSupply: 9000000000000
-    maxSupply: 9000000000000
+
+  n_e309f0fa7cf3a13f93a8da5325cdad32790d2070.heron:
+    symbol: HERON
+    name: HERON
+    description:
+    img: img/heron.png
+    totalSupply: 667448111
+    circulatingSupply: 517448111
+    color: "#a22726"
     precision: 12
     socials:
       - type: website
-        url: https://koditoken.com/
+        url: https://www.heronheroes.com
       - type: twitter
-        url: https://x.com/koditoken
-      - type: github
-        url: https://github.com/koditoken
+        url: https://x.com/HeronHeroesKDA
+
+  n_582fed11af00dc626812cd7890bb88e72067f28c.bro:
+    symbol: BRO
+    name: BRO
+    description: Token of the Brother's Telegram group
+    img: img/bro.png
+    color: "#af826a"
+    totalSupply: 100
+    circulatingSupply: 80
+    precision: 12
+    socials:
+      - type: website
+        url: https://bro.pink/
+      - type: twitter
+        url: https://x.com/thebrothersdao
 
   n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-ETH:
     symbol: kb-ETH
@@ -91,6 +104,22 @@ mainnet:
       - type: website
         url: https://crankk.io/
 
+  n_2e999f869878d1580300b15f08d666c0d5b3db59.kodi:
+    symbol: KODI
+    name: KODI
+    description: KODI is the native memecoin catcoin on the best blockchain in crypto. It is the first holistic cat on Kadena.
+    img: img/kodi.png
+    color: "#4a9079"
+    totalSupply: 9000000000000
+    maxSupply: 9000000000000
+    precision: 12
+    socials:
+      - type: website
+        url: https://koditoken.com/
+      - type: twitter
+        url: https://x.com/koditoken
+      - type: github
+        url: https://github.com/koditoken
 
   free.cyberfly_token:
     symbol: CFLY
@@ -108,7 +137,6 @@ mainnet:
         url: https://x.com/cyberfly_io
       - type: telegram
         url: https://t.me/cyberflyio
-
 
   free.finux:
     symbol: FINX
@@ -136,25 +164,6 @@ mainnet:
       - type: telegram
         url: https://t.me/kishukens
 
-  kaddex.kdx:
-    symbol: KDX
-    name: KDX
-    description: Kaddex / Ecko Token
-    img: img/kdx.svg
-    color: "#ff5271"
-    totalSupply: 900699352.80
-    circulatingSupply: 244,760,172.96
-    precision: 12
-    socials:
-      - type: website
-        url: https://ecko.finance/
-      - type: github
-        url: https://github.com/eckoDAO-org
-      - type: twitter
-        url: https://x.com/eckoDAO
-      - type: discord
-        url: https://discord.gg/eckodao
-
   n_625e9938ae84bdb7d190f14fc283c7a6dfc15d58.ktoshi:
     symbol: KTO
     name: KTO
@@ -179,36 +188,6 @@ mainnet:
       - type: website
         url: https://zelcore.io/
 
-  n_e309f0fa7cf3a13f93a8da5325cdad32790d2070.heron:
-    symbol: HERON
-    name: HERON
-    description:
-    img: img/heron.png
-    totalSupply: 963142522
-    circulatingSupply: 693142522
-    color: "#a22726"
-    precision: 12
-    socials:
-      - type: website
-        url: https://www.heronheroes.com
-      - type: twitter
-        url: https://x.com/HeronHeroesKDA
-
-  n_582fed11af00dc626812cd7890bb88e72067f28c.bro:
-    symbol: BRO
-    name: BRO
-    description: Token of the Brother's Telegram group
-    img: img/bro.png
-    color: "#af826a"
-    totalSupply: 100
-    circulatingSupply: 80
-    precision: 12
-    socials:
-        - type: website
-          url: https://bro.pink/
-        - type: twitter
-          url: https://x.com/thebrothersdao
-
   runonflux.flux:
     symbol: FLUX
     name: FLUX
@@ -226,15 +205,34 @@ mainnet:
         url: https://discord.gg/keVn3HDKZw
 
   free.wiza:
-      symbol: WIZA
-      name: WIZA
-      description: Wizards Arena
-      img: img/wizards.png
-      color: "#ed0404"
-      precision: 12
-      socials:
-        - type: website
-          url: https://www.wizardsarena.net
+    symbol: WIZA
+    name: WIZA
+    description: Wizards Arena
+    img: img/wizards.png
+    color: "#ed0404"
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.wizardsarena.net
+
+  kaddex.kdx:
+  symbol: KDX
+  name: KDX
+  description: Kaddex / Ecko Token
+  img: img/kdx.svg
+  color: "#ff5271"
+  totalSupply: 900699352.80
+  circulatingSupply: 244,760,172.96
+  precision: 12
+  socials:
+    - type: website
+      url: https://ecko.finance/
+    - type: github
+      url: https://github.com/eckoDAO-org
+    - type: twitter
+      url: https://x.com/eckoDAO
+    - type: discord
+      url: https://discord.gg/eckodao
 
   hypercent.prod-hype-coin:
     symbol: HYPE
@@ -369,7 +367,6 @@ mainnet:
         url: https://x.com/chips_finance
       - type: telegram
         url: https://t.me/CHIPSFINANCE
-
 
   n_2669414de420c0d40bbc3caa615e989eaba83d6f.highlander:
     symbol: HLR
@@ -523,19 +520,19 @@ testnet:
         url: https://github.com/kadena-io
 
 n_e0db65ce44a2cb408642be0a425cff2063c0631c.MATTA:
-    symbol: MATTA
-    name: MATTA Token
-    description: Whiteboard Memes on the Kadena Blockchain
-    img: img/matta.png
-    color: "#FFFFFF"
-    totalSupply: 3000
-    circulatingSupply: 3000 
-    precision: 12
-    socials:
-      - type: website
-        url: https://www.mattatoken.fun/
-      - type: twitter
-        url: https://x.com/MattaToken
+  symbol: MATTA
+  name: MATTA Token
+  description: Whiteboard Memes on the Kadena Blockchain
+  img: img/matta.png
+  color: "#FFFFFF"
+  totalSupply: 3000
+  circulatingSupply: 3000
+  precision: 12
+  socials:
+    - type: website
+      url: https://www.mattatoken.fun/
+    - type: twitter
+      url: https://x.com/MattaToken
 
 blacklist:
   - lago.USD2
