@@ -216,23 +216,23 @@ mainnet:
         url: https://www.wizardsarena.net
 
   kaddex.kdx:
-  symbol: KDX
-  name: KDX
-  description: Kaddex / Ecko Token
-  img: img/kdx.svg
-  color: "#ff5271"
-  totalSupply: 900699352.80
-  circulatingSupply: 244,760,172.96
-  precision: 12
-  socials:
-    - type: website
-      url: https://ecko.finance/
-    - type: github
-      url: https://github.com/eckoDAO-org
-    - type: twitter
-      url: https://x.com/eckoDAO
-    - type: discord
-      url: https://discord.gg/eckodao
+    symbol: KDX
+    name: KDX
+    description: Kaddex / Ecko Token
+    img: img/kdx.svg
+    color: "#ff5271"
+    totalSupply: 900699352.80
+    circulatingSupply: 244760172.96
+    precision: 12
+    socials:
+      - type: website
+        url: https://ecko.finance/
+      - type: github
+        url: https://github.com/eckoDAO-org
+      - type: twitter
+        url: https://x.com/eckoDAO
+      - type: discord
+        url: https://discord.gg/eckodao
 
   hypercent.prod-hype-coin:
     symbol: HYPE
@@ -519,20 +519,20 @@ testnet:
       - type: github
         url: https://github.com/kadena-io
 
-n_e0db65ce44a2cb408642be0a425cff2063c0631c.MATTA:
-  symbol: MATTA
-  name: MATTA Token
-  description: Whiteboard Memes on the Kadena Blockchain
-  img: img/matta.png
-  color: "#FFFFFF"
-  totalSupply: 3000
-  circulatingSupply: 3000
-  precision: 12
-  socials:
-    - type: website
-      url: https://www.mattatoken.fun/
-    - type: twitter
-      url: https://x.com/MattaToken
+  n_e0db65ce44a2cb408642be0a425cff2063c0631c.MATTA:
+    symbol: MATTA
+    name: MATTA Token
+    description: Whiteboard Memes on the Kadena Blockchain
+    img: img/matta.png
+    color: "#FFFFFF"
+    totalSupply: 3000
+    circulatingSupply: 3000
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.mattatoken.fun/
+      - type: twitter
+        url: https://x.com/MattaToken
 
 blacklist:
   - lago.USD2
