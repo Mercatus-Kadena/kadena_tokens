@@ -69,6 +69,17 @@ mainnet:
       - type: twitter
         url: https://x.com/circle
 
+  n_2669414de420c0d40bbc3caa615e989eaba83d6f.happy:
+    symbol: HAP
+    name: Happy
+    description:
+    img: img/happy.webp
+    totalSupply: 100000000
+    circulatingSupply: 100000000
+    color: "#a22726"
+    precision: 12
+    socials: []
+
   arkade.token:
     symbol: ARKD
     name: Arkade
