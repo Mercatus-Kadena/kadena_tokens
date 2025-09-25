@@ -199,6 +199,19 @@ mainnet:
       - type: website
         url: https://zelcore.io/
 
+  n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-VATRENI:
+    symbol: kb-Vatreni
+    name: kb-Vatreni
+    description: Official token of the Croatian Football Federation
+    img: img/vatreni.png
+    color: "#8a62eb"
+    precision: 18
+    socials:
+      - type: website
+        url: https://token.hns-cff.hr/en
+      - type: twitter
+        url: https://x.com/vatreni_token
+
   runonflux.flux:
     symbol: FLUX
     name: FLUX
