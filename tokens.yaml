@@ -200,8 +200,8 @@ mainnet:
         url: https://zelcore.io/
 
   n_e595727b657fbbb3b8e362a05a7bb8d12865c1ff.kb-VATRENI:
-    symbol: kb-Vatreni
-    name: kb-Vatreni
+    symbol: kb-VATRENI
+    name: kb-VATRENI
     description: Official token of the Croatian Football Federation
     img: img/vatreni.png
     color: "#8a62eb"
