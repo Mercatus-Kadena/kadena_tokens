@@ -2,7 +2,7 @@ mainnet:
   coin:
     symbol: KDA
     name: KDA
-    description: Native token of Comunity Kadena
+    description: Native token of Community Kadena
     img: img/kda.svg
     color: "#4a9079"
     totalSupply: 1000000000
