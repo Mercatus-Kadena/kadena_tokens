@@ -2,7 +2,7 @@ mainnet:
   coin:
     symbol: KDA
     name: KDA
-    description: Native token of Kadena
+    description: Native token of Comunity Kadena
     img: img/kda.svg
     color: "#4a9079"
     totalSupply: 1000000000
@@ -11,9 +11,9 @@ mainnet:
       - type: website
         url: https://www.kadena.io/
       - type: twitter
-        url: https://twitter.com/kadena_io
+        url: https://x.com/KdaCed
       - type: discord
-        url: https://discord.com/invite/kadena
+        url: https://discord.gg/xVRX5sAkQT
       - type: github
         url: https://github.com/kadena-io
 
