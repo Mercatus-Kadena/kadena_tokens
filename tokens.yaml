@@ -526,6 +526,24 @@ mainnet:
     precision: 12
     socials: []
 
+  n_48867b242317a0216a67f8c7ca26696b5878e0e3.SPT:
+    symbol: SPT
+    name: SPT
+    description: Token of Smart Pacts, a smart-contract company on Kadena Community Edition. Fixed supply minted once; token-weighted advisory voting and pro-rata KDA distributions to holders are built into the contract.
+    img: img/spt.png
+    color: "#a78bfa"
+    totalSupply: 100000
+    precision: 12
+    socials:
+      - type: website
+        url: https://smartpacts.io/
+      - type: twitter
+        url: https://x.com/SmartPacts
+      - type: telegram
+        url: https://t.me/smartpacts
+      - type: github
+        url: https://github.com/SmartPacts/spt
+
 testnet:
   coin:
     symbol: KDA
