@@ -9,14 +9,16 @@ mainnet:
     precision: 12
     socials:
       - type: website
-        url: https://www.kadena.io/
+        url: https://kda-chain.org/
       - type: twitter
         url: https://x.com/KdaCed
       - type: discord
-        url: https://discord.gg/xVRX5sAkQT
+        url: https://discord.gg/AeUwSmJF7
       - type: github
-        url: https://github.com/kadena-io
-
+        url: https://github.com/kda-community
+      - type: telegram
+        url: https://t.me/KdaCommunityEdition
+  
   n_e309f0fa7cf3a13f93a8da5325cdad32790d2070.heron:
     symbol: HERON
     name: HERON
